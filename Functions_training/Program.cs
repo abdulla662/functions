@@ -1,4 +1,4 @@
-﻿using System.Dynamic;
+﻿using System.Dynamic
 
 namespace Functions_training
 {
